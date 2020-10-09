@@ -33,7 +33,7 @@ import FooterBar from './utils/FooterBar'
 
 import marked from 'marked'
 import hljs from 'highlight.js'
-import 'highlight.js/styles/monokai-sublime.css'
+import 'highlight.js/styles/default.css'
 
 import axios from '../scripts/ajax'
 import { API_HOST } from '../scripts/config'
